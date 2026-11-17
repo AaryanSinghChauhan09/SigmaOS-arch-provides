@@ -3,7 +3,7 @@ name = "SigmaOS-arch-provides"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "arch-provides component"
+description = "SigmaOS SigmaOS-arch-provides component"
 upstream = []
 
 [contract]
