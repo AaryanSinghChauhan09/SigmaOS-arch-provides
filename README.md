@@ -1,6 +1,6 @@
-# SigmaOS-arch-provides
+# SigmaOS-provides
 
-SigmaOS SigmaOS-arch-provides component
+SigmaOS SigmaOS-provides component
 
 - **Category:** Components
 - **Engine:** component
